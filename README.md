@@ -12,3 +12,8 @@ accountディレクトリの各ファイルで投稿内容を管理していま�
 git config core.quotepath false
 ```
 してください。
+
+マストドンでは mastodon/lib/sanitize_ext/sanitize_config.rb により ul、ol、liタグが無効となるため、
+用語説明では、Markdown Extra構文を使用しています。
+https://michelf.ca/projects/php-markdown/extra/
+
