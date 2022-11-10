@@ -8,4 +8,6 @@
 * [Make it a quote for Fedi](https://misskey.io/@makeitquote)（コラ作成ツール）
 * [random color contrasts](https://botsin.space/users/randomColorContrasts)（ランダムに色の組み合わせ提案）
 * [voteguide](https://notestock.osa-p.net/users/voteguide)（投票の共有）
+* [時間ばさみ](https://mstdn.jp/users/time_scissors_bot)（TLで毎0時を教えてくれる）
+* [うんことして生きる](https://mastodon.crazynewworld.net/users/unko)（うんこ関連ニュース）
 
