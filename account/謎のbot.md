@@ -10,4 +10,4 @@
 * [voteguide](https://notestock.osa-p.net/users/voteguide)（投票の共有）
 * [時間ばさみ](https://mstdn.jp/users/time_scissors_bot)（TLで毎0時を教えてくれる）
 * [うんことして生きる](https://mastodon.crazynewworld.net/users/unko)（うんこ関連ニュース）
-
+* [Aquarium](https://botsin.space/@aquarium)（TLが海の中になる）
