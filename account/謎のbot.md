@@ -3,6 +3,7 @@
 * [俳句検出bot](https://social.timespiral.co.jp/users/find575)（投稿内の575を検出）
 * [短歌を検出する人](https://mastodon.crazynewworld.net/users/tanka)（投稿内の575を検出）
 * [絵文字](https://don.nzws.me/users/emoji)（絵文字を作ってくれる）
+* [GPTちゃん（人工知能）](https://mastodon.comorichico.com/@gpt)（会話bot）
 * [DajareDetector](https://social.timespiral.co.jp/users/DajareDetector)（投稿内の駄洒落を検出）
 * [5000兆円ほしい! for Fedi](https://misskey.io/@5c)（5000兆円ほしいのロゴを作ってくれる）
 * [Make it a quote for Fedi](https://misskey.io/@makeitquote)（コラ作成ツール）
