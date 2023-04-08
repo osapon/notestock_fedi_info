@@ -10,11 +10,12 @@ PleromeはMastodon対応のものなら使えるらしいのですが、完全�
     * [Ivory for Mastodon by Tapbots](https://apps.apple.com/jp/app/id6444602274)
     * [Metatext](https://apps.apple.com/jp/app/id1523996615)
     * [Mammoth: for Mastodon](https://apps.apple.com/jp/app/id1667573899)
+    * (New!) [Nightfox DAWN for mastodon](https://apps.apple.com/jp/app/id1668645019)
     * [tooot](https://apps.apple.com/jp/app/id1549772269)
     * [Toot!](https://apps.apple.com/jp/app/id1229021451)
     * [TootDesk](https://apps.apple.com/jp/app/id1591748028)
     * [Tootle for Mastodon](https://apps.apple.com/jp/app/id1236013466)
-    * (New!) [Tootoise](https://apps.apple.com/jp/app/id1465090190)
+    * [Tootoise](https://apps.apple.com/jp/app/id1465090190)
     * [星プテラノ](https://apps.apple.com/jp/app/id1436972796)
     * [ikuradon 3](https://github.com/potproject/ikuradon)
     * [Illustail](https://apps.apple.com/jp/app/illustail/id375749531)（画像ビューア）
