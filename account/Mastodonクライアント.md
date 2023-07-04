@@ -5,12 +5,13 @@ PleromeはMastodon対応のものなら使えるらしいのですが、完全�
 
 * iOS
     * [Mastodon for iPhone and iPad](https://apps.apple.com/jp/app/id1571998974)
-    * (New!) [feather for Mastodon](https://covelline.com/feather/mastodon/)
+    * [feather for Mastodon](https://covelline.com/feather/mastodon/)
     * [Ice Cubes: for Mastodon](https://apps.apple.com/jp/app/id6444915884)
     * [iMast](https://apps.apple.com/jp/app/id1229461703)
     * [Ivory for Mastodon by Tapbots](https://apps.apple.com/jp/app/id6444602274)
-    * [Metatext](https://apps.apple.com/jp/app/id1523996615)
     * [Mammoth: for Mastodon](https://apps.apple.com/jp/app/id1667573899)
+    * [Metatext](https://apps.apple.com/jp/app/id1523996615)
+    * (New!) [Mona for Mastodon](https://apps.apple.com/jp/app/id1659154653)
     * [Nightfox DAWN for mastodon](https://apps.apple.com/jp/app/id1668645019)
     * [tooot](https://apps.apple.com/jp/app/id1549772269)
     * [Toot!](https://apps.apple.com/jp/app/id1229021451)
