@@ -11,7 +11,7 @@ PleromeはMastodon対応のものなら使えるらしいのですが、完全�
     * [Ivory for Mastodon by Tapbots](https://apps.apple.com/jp/app/id6444602274)
     * [Mammoth: for Mastodon](https://apps.apple.com/jp/app/id1667573899)
     * [Metatext](https://apps.apple.com/jp/app/id1523996615)
-    * (New!) [Mona for Mastodon](https://apps.apple.com/jp/app/id1659154653)
+    * [Mona for Mastodon](https://apps.apple.com/jp/app/id1659154653)
     * [Nightfox DAWN for mastodon](https://apps.apple.com/jp/app/id1668645019)
     * [tooot](https://apps.apple.com/jp/app/id1549772269)
     * [Toot!](https://apps.apple.com/jp/app/id1229021451)
@@ -24,6 +24,7 @@ PleromeはMastodon対応のものなら使えるらしいのですが、完全�
 
 * Android
     * [Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android)
+    * (New!) [Milktea for Misskey(Mastodon)](https://play.google.com/store/apps/details?id=jp.panta.misskeyandroidclient&hl=ja)
     * [SubwayTooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter)
     * [Tusky for Mastodon](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky)
     * [Twidere for Twitter/Mastodon](https://play.google.com/store/apps/details?id=org.mariotaku.twidere)
