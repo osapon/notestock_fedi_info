@@ -3,6 +3,17 @@ PleromeはMastodon対応のものなら使えるらしいのですが、完全�
 
 公式、ストアからインストールできるか否か、ABCの順です。
 
+* Android
+    * [Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android)
+    * (New!) [Megalodon for Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android.sk)
+    * [Milktea for Misskey(Mastodon)](https://play.google.com/store/apps/details?id=jp.panta.misskeyandroidclient&hl=ja)
+    * [SubwayTooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter)
+    * [Tusky for Mastodon](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky)
+    * [Twidere for Twitter/Mastodon](https://play.google.com/store/apps/details?id=org.mariotaku.twidere)
+    * [Yuito - Mastodon クライアントアプリ](https://play.google.com/store/apps/details?id=net.accelf.yuito)
+    * [ZonePane(ぞーぺん)](https://play.google.com/store/apps/details?id=com.zonepane)
+    * [ikuradon 3](https://github.com/potproject/ikuradon)
+
 * iOS
     * [Mastodon for iPhone and iPad](https://apps.apple.com/jp/app/id1571998974)
     * [feather for Mastodon](https://covelline.com/feather/mastodon/)
@@ -21,16 +32,6 @@ PleromeはMastodon対応のものなら使えるらしいのですが、完全�
     * [星プテラノ](https://apps.apple.com/jp/app/id1436972796)
     * [ikuradon 3](https://github.com/potproject/ikuradon)
     * [Illustail](https://apps.apple.com/jp/app/illustail/id375749531)（画像ビューア）
-
-* Android
-    * [Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android)
-    * (New!) [Milktea for Misskey(Mastodon)](https://play.google.com/store/apps/details?id=jp.panta.misskeyandroidclient&hl=ja)
-    * [SubwayTooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter)
-    * [Tusky for Mastodon](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky)
-    * [Twidere for Twitter/Mastodon](https://play.google.com/store/apps/details?id=org.mariotaku.twidere)
-    * [Yuito - Mastodon クライアントアプリ](https://play.google.com/store/apps/details?id=net.accelf.yuito)
-    * [ZonePane(ぞーぺん)](https://play.google.com/store/apps/details?id=com.zonepane)
-    * [ikuradon 3](https://github.com/potproject/ikuradon)
 
 * Web
     * [elk](https://github.com/elk-zone/elk)
