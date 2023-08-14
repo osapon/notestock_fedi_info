@@ -8,15 +8,16 @@
 * [voteguide](https://notestock.osa-p.net/users/voteguide)（投票の共有）
 * [うんことして生きる](https://mastodon.crazynewworld.net/users/unko)（うんこ関連ニュース）
 * [Aquarium](https://botsin.space/@aquarium)（TLが海の中になる）
-* (New!) [ねこどん - cat image booster](https://mastodon.social/@nekodon)（猫画像共有）
-* (New!) [不審者生成Bot](https://ap.ketsuben.red/@mecha_fushinsha_bot)（不審者情報をマルコフ連鎖して生成）
+* [ねこどん - cat image booster](https://mastodon.social/@nekodon)（猫画像共有）
+* [不審者生成Bot](https://ap.ketsuben.red/@mecha_fushinsha_bot)（不審者情報をマルコフ連鎖して生成）
 * 時報
-    * (New!) [時報bot](https://mastodon-japan.net/@jihobot)
-    * [時刻お知らせ](https://notestock.osa-p.net/users/time_notice_0min_hasami)
-    * [時報](https://mstdn1.h3z.jp/@jihou)
-    * [しろぷよ時報 Bot](https://misskey.04.si/@shiropuyotime)
-    * [わはー時報 (っ＾ω＾c)](https://waha.work/@wahatime)
-    * [10分時報](https://fedibird.com/@10min_times)
+    * [時報bot](https://mastodon-japan.net/@jihobot)（毎時0分）
+    * [時刻お知らせ](https://notestock.osa-p.net/users/time_notice_0min_hasami)（毎時0分）
+    * [時報](https://mstdn1.h3z.jp/@jihou)（毎時0分）
+    * [しろぷよ時報 Bot](https://misskey.04.si/@shiropuyotime)（毎時0分）
+    * [わはー時報 (っ＾ω＾c)](https://waha.work/@wahatime)（毎時0分）
+    * (New!) [時間 切り取り線 ](https://fedibird.com/@time_cut_line)（毎時0分、30分）
+    * [10分時報](https://fedibird.com/@10min_times)（毎10分）
 
 * 動いてないかも
 * [DajareDetector](https://social.timespiral.co.jp/users/DajareDetector)（投稿内の駄洒落を検出）
