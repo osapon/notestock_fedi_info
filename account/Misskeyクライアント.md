@@ -4,16 +4,16 @@ Misskey向け各種クライアント。
 * Web
     * [Kaiteki](https://web.kaiteki.app/)
     * [MissLI](https://uboar.github.io/missli/)
-    * (New!) [Mizuna](https://blossomsarchive.com/blog/post-2286/)（送信専用）
+    * [Mizuna](https://blossomsarchive.com/blog/post-2286/)（送信専用）
 
 * Android
     * [Milktea for Misskey(Mastodon)](https://play.google.com/store/apps/details?id=jp.panta.misskeyandroidclient)
     * [Miria](https://play.google.com/store/apps/details?id=info.shiosyakeyakini.miria)
     * [MissRirica](https://play.google.com/store/apps/details?id=space.riinswork.missririca)
+    * [PSkey](https://play.google.com/store/apps/details?id=dev.fuwa.pskey)
     * [SubwayTooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter)（要設定変更）
     * [ZonePane(ぞーぺん)](https://play.google.com/store/apps/details?id=com.zonepane)
     * [Kaiteki](https://kaiteki.app/)
-    * [PSkey](https://github.com/ibuki2003/pskey/wiki)
 
 * iOS
     * [Miria](https://apps.apple.com/jp/app/id6449201469)
