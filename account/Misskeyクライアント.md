@@ -25,4 +25,3 @@ Misskey向け各種クライアント。
 
 * PC（Windows/Linux/MacOS対応）
     * [Kaiteki](https://kaiteki.app/)
-    * [Whalebird](https://whalebird.social/)
