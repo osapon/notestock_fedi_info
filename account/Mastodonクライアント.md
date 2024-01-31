@@ -4,8 +4,9 @@ PleromeはMastodon対応のものなら使えるらしいのですが、完全�
 公式、ストアからインストールできるか否か、ABCの順です。
 
 * Android
+    * (New!) [Fedilab](https://fedilab.app/)
     * [Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android)
-    * (New!) [Megalodon for Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android.sk)
+    * [Megalodon for Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android.sk)
     * [Milktea for Misskey(Mastodon)](https://play.google.com/store/apps/details?id=jp.panta.misskeyandroidclient&hl=ja)
     * [SubwayTooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter)
     * [Tusky for Mastodon](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky)
