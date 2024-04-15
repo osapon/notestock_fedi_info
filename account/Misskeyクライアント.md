@@ -18,6 +18,7 @@ Misskey向け各種クライアント。
 * iOS
     * [Miria](https://apps.apple.com/jp/app/id6449201469)
     * [Misscat](https://apps.apple.com/app/id1505059993)
+    * (New!)[MissFARM](https://apps.apple.com/jp/app/id6468420277)
     * [MissRirica](https://apps.apple.com/app/id1659214999)
     * [MPen](https://apps.apple.com/jp/app/id6475402927)
     * [SocialHub](https://apps.apple.com/us/app/id1474451582)
@@ -26,4 +27,4 @@ Misskey向け各種クライアント。
 
 * PC（Windows/Linux/MacOS対応）
     * [Kaiteki](https://kaiteki.app/)
-    * (New!)[Misskey for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=mikankari.msky4vscode)（Visual Studio Code）
+    * [Misskey for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=mikankari.msky4vscode)（Visual Studio Code）
