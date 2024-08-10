@@ -22,5 +22,5 @@
     * [10分時報](https://fedibird.com/@10min_times)（毎10分）
 
 * 動いてないかも
-* [DajareDetector](https://social.timespiral.co.jp/users/DajareDetector)（投稿内の駄洒落を検出）
-* [5000兆円ほしい! for Fedi](https://misskey.io/@5c)（5000兆円ほしいのロゴを作ってくれる）
+    * [DajareDetector](https://social.timespiral.co.jp/users/DajareDetector)（投稿内の駄洒落を検出）
+    * [5000兆円ほしい! for Fedi](https://misskey.io/@5c)（5000兆円ほしいのロゴを作ってくれる）
