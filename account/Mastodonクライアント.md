@@ -4,7 +4,7 @@ PleromeはMastodon対応のものなら使えるらしいのですが、完全�
 公式、ストアからインストールできるか否か、ABCの順です。
 
 * Android
-    * (New!) [Fedilab](https://fedilab.app/)
+    * [Fedilab](https://fedilab.app/)
     * [Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android)
     * [Megalodon for Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android.sk)
     * [Milktea for Misskey(Mastodon)](https://play.google.com/store/apps/details?id=jp.panta.misskeyandroidclient&hl=ja)
@@ -39,6 +39,7 @@ PleromeはMastodon対応のものなら使えるらしいのですが、完全�
     * [Sengi](https://nicolasconstant.github.io/sengi/)
 
 * PC（Windows/Linux/MacOS対応）
+    * (New!)[Mistdon](https://github.com/tizerm/Mistdon)
     * [Fedistar](https://fedistar.net/)
     * [Hyperspace](https://hyperspace.marquiskurt.net/)
     * [Sengi](https://nicolasconstant.github.io/sengi/)
