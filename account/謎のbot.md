@@ -11,6 +11,7 @@
 * (New!)[Forest Bot](https://hellsite.site/@forestbot)（TLが森の中になる）
 * [ねこどん - cat image booster](https://mastodon.social/@nekodon)（猫画像共有）
 * [いぬどん - dog image booster](https://mastodon.social/@inudon)（犬画像共有）
+* [虚構新聞(RSSfeed)](https://chaosphere.hostdon.jp/@kyoko)
 * [不審者生成Bot](https://ap.ketsuben.red/@mecha_fushinsha_bot)（不審者情報をマルコフ連鎖して生成）
 * 時報
     * [時報bot](https://mastodon-japan.net/@jihobot)（毎時0分）
