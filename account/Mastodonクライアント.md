@@ -11,7 +11,7 @@ PleromeはMastodon対応のものなら使えるらしいのですが、完全�
     * [SubwayTooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter)
     * [Tusky for Mastodon](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky)
     * [Twidere for Twitter/Mastodon](https://play.google.com/store/apps/details?id=org.mariotaku.twidere)
-    * [Yuito - Mastodon クライアントアプリ](https://play.google.com/store/apps/details?id=net.accelf.yuito)
+    * (ReNew!)[Yuito - Mastodon クライアントアプリ](https://play.google.com/store/apps/details?id=net.accelf.yuito.dash)
     * [ZonePane(ぞーぺん)](https://play.google.com/store/apps/details?id=com.zonepane)
     * [ikuradon 3](https://github.com/potproject/ikuradon)
 
@@ -21,11 +21,9 @@ PleromeはMastodon対応のものなら使えるらしいのですが、完全�
     * [Ice Cubes: for Mastodon](https://apps.apple.com/jp/app/id6444915884)
     * [iMast](https://apps.apple.com/jp/app/id1229461703)
     * [Ivory for Mastodon by Tapbots](https://apps.apple.com/jp/app/id6444602274)
-    * [Mammoth: for Mastodon](https://apps.apple.com/jp/app/id1667573899)
     * [Metatext](https://apps.apple.com/jp/app/id1523996615)
     * [Mona for Mastodon](https://apps.apple.com/jp/app/id1659154653)
     * [Nightfox DAWN for mastodon](https://apps.apple.com/jp/app/id1668645019)
-    * [tooot](https://apps.apple.com/jp/app/id1549772269)
     * [Toot!](https://apps.apple.com/jp/app/id1229021451)
     * [TootDesk](https://apps.apple.com/jp/app/id1591748028)
     * [Tootle for Mastodon](https://apps.apple.com/jp/app/id1236013466)
@@ -39,7 +37,7 @@ PleromeはMastodon対応のものなら使えるらしいのですが、完全�
     * [Sengi](https://nicolasconstant.github.io/sengi/)
 
 * PC（Windows/Linux/MacOS対応）
-    * (New!)[Mistdon](https://github.com/tizerm/Mistdon)
+    * [Mistdon](https://github.com/tizerm/Mistdon)
     * [Fedistar](https://fedistar.net/)
     * [Hyperspace](https://hyperspace.marquiskurt.net/)
     * [Sengi](https://nicolasconstant.github.io/sengi/)
