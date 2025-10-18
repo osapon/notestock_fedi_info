@@ -39,9 +39,9 @@ PleromeはMastodon対応のものなら使えるらしいのですが、完全�
     * [Sengi](https://nicolasconstant.github.io/sengi/)
 
 * PC（Windows/Linux/MacOS対応）
-    * (New!)[Mistdon](https://github.com/tizerm/Mistdon)
     * [Fedistar](https://fedistar.net/)
     * [Hyperspace](https://hyperspace.marquiskurt.net/)
+    * (New!)[Mistdon](https://github.com/tizerm/Mistdon)
     * [Sengi](https://nicolasconstant.github.io/sengi/)
     * [TheDesk](https://thedesk.top/)
     * [Whalebird](https://whalebird.social/)

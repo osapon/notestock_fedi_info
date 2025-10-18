@@ -26,6 +26,6 @@ Misskey向け各種クライアント。
     * [Illustail](https://apps.apple.com/jp/app/illustail/id375749531)（画像ビューア）
 
 * PC（Windows/Linux/MacOS対応）
-    * (New!)[Mistdon](https://github.com/tizerm/Mistdon)
     * [Kaiteki](https://kaiteki.app/)
     * [Misskey for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=mikankari.msky4vscode)（Visual Studio Code）
+    * (New!)[Mistdon](https://github.com/tizerm/Mistdon)
