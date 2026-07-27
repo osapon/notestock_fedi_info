@@ -5,13 +5,15 @@ PleromeはMastodon対応のものなら使えるらしいのですが、完全�
 
 * Android
     * [Fedilab](https://fedilab.app/)
+    * (New!)[Kurage for Mastodon](https://demo2.jp/kurage/)
     * [Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android)
     * [Megalodon for Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android.sk)
     * [Milktea for Misskey(Mastodon)](https://play.google.com/store/apps/details?id=jp.panta.misskeyandroidclient&hl=ja)
+    * (New!)[Ochamochi -Mastodon Client](https://play.google.com/store/apps/details?id=jp.studioplustwo.android.ochamochi)
     * [SubwayTooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter)
     * [Tusky for Mastodon](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky)
     * [Twidere for Twitter/Mastodon](https://play.google.com/store/apps/details?id=org.mariotaku.twidere)
-    * (ReNew!)[Yuito - Mastodon クライアントアプリ](https://play.google.com/store/apps/details?id=net.accelf.yuito.dash)
+    * [Yuito - Mastodon クライアントアプリ](https://play.google.com/store/apps/details?id=net.accelf.yuito.dash)
     * [ZonePane(ぞーぺん)](https://play.google.com/store/apps/details?id=com.zonepane)
     * [ikuradon 3](https://github.com/potproject/ikuradon)
 
@@ -34,12 +36,14 @@ PleromeはMastodon対応のものなら使えるらしいのですが、完全�
 
 * Web
     * [elk](https://github.com/elk-zone/elk)
+    * (New!)[Kurage for Mastodon](https://demo2.jp/kurage/)
     * [Sengi](https://nicolasconstant.github.io/sengi/)
 
 * PC（Windows/Linux/MacOS対応）
     * [Fedistar](https://fedistar.net/)
     * [Hyperspace](https://hyperspace.marquiskurt.net/)
-    * (New!)[Mistdon](https://github.com/tizerm/Mistdon)
+    * (New!)[Kurage for Mastodon](https://demo2.jp/kurage/)
+    * [Mistdon](https://github.com/tizerm/Mistdon)
     * [Sengi](https://nicolasconstant.github.io/sengi/)
     * [TheDesk](https://thedesk.top/)
     * [Whalebird](https://whalebird.social/)
